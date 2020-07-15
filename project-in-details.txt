@@ -1,0 +1,30 @@
+- frontend template
+- virtualenv :
+    - create
+    - activate    .\Scripts\activate
+    - pip install 
+    - deactivate
+
+
+- upload project on github
+
+- url  : path
+- view : login
+- models : db
+- templates : frontend
+
+
+
+
+Relationship  in django 
+
+ - One to many   [user - posts ] == forignkey 
+ - Many to many [user - groups and group has more than one admin]
+ - One to one [user - profile   like fb user one profile only ]
+
+
+
+Static Files :
+     - frondend  / images  css  js
+Media Files :
+    - upload  / images 
