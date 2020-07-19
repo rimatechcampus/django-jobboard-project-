@@ -25,3 +25,8 @@ Contact :
 Home :
 
 Login
+
+
+<!-- rest framework  -->
+
+db --- django --- api [json] --- mobile & js framework 

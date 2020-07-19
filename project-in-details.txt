@@ -27,4 +27,7 @@ Relationship  in django
 Static Files :
      - frondend  / images  css  js
 Media Files :
-    - upload  / images 
+    - upload  / images
+
+
+ 
