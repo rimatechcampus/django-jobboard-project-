@@ -42,8 +42,10 @@ INSTALLED_APPS = [
 
     'bootstrap4',
 
-    # ! my apps
+
     'job',
+    'django_filters',
+    'contact',
 
 ]
 
